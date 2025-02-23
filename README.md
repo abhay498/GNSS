@@ -1,7 +1,7 @@
 # GNSS (Global Navigation Satellite System) refers to a group of satellite systems that provide positioning, navigation, and timing (PNT) services worldwide.
 These systems allow users to determine their exact location anywhere on Earth using signals from multiple satellites.
 
-![] (https://github.com/abhay498/GNSS/blob/main/Reyax_RYS8830_EVB.png)
+   ![alt text](https://github.com/abhay498/GNSS/blob/main/Reyax_RYS8830_EVB.png)
 
 1. Major GNSS Systems
    **Global Systems:**
