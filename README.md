@@ -3,8 +3,10 @@
    and timing (PNT) services worldwide. These systems allow users to determine their exact location anywhere on Earth using
    signals from multiple satellites.
 
-   ![alt text](https://github.com/abhay498/GNSS/blob/main/Reyax_RYS8830_EVB.png)
-
+   ![alt text](https://github.com/abhay498/GNSS/blob/main/Reyax_RYS8830_EVB_GUI.png)
+   
+   ![alt text](https://github.com/abhay498/GNSS/blob/main/Reyax_RYS8830_EVB.jpg)
+   
 1. Major GNSS Systems
    
    **Global Systems:**
