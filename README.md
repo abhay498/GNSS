@@ -14,6 +14,7 @@
    4. BeiDou (BDS) – China
 
    **Regional Systems:**
+   
    5. IRNSS (Indian Regional Navigation Satellite System) – India
    6. QZSS (Quasi-Zenith Satellite System) – Japan
 
@@ -30,11 +31,11 @@
   4. GNSS Applications
      GNSS is used in multiple fields, including:
 
-     Navigation: Aircraft, ships, cars, and personal devices.
-     Surveying & Mapping: Land surveying, geodesy, and GIS applications.
-     Autonomous Vehicles: Self-driving cars, UAVs, and precision agriculture.
-     Telecommunications: Network synchronization for 4G/5G infrastructure.
-     Disaster Management: Search and rescue, earthquake monitoring.
-     Military & Defense: Secure navigation, missile guidance, and anti-jamming technologies.
+     1. Navigation: Aircraft, ships, cars, and personal devices.
+     2. Surveying & Mapping: Land surveying, geodesy, and GIS applications.
+     3. Autonomous Vehicles: Self-driving cars, UAVs, and precision agriculture.
+     4. Telecommunications: Network synchronization for 4G/5G infrastructure.
+     5. Disaster Management: Search and rescue, earthquake monitoring.
+     6. Military & Defense: Secure navigation, missile guidance, and anti-jamming technologies.
 
 
