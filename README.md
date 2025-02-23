@@ -7,18 +7,18 @@
 
 1. Major GNSS Systems
    **Global Systems:**
-   GPS (Global Positioning System) – United States
-   GLONASS (Global Navigation Satellite System) – Russia
-   Galileo – European Union
-   BeiDou (BDS) – China
+   1. GPS (Global Positioning System) – United States
+   2. GLONASS (Global Navigation Satellite System) – Russia
+   3. Galileo – European Union
+   4. BeiDou (BDS) – China
 
    **Regional Systems:**
-   IRNSS (Indian Regional Navigation Satellite System) – India
-   QZSS (Quasi-Zenith Satellite System) – Japan
+   5. IRNSS (Indian Regional Navigation Satellite System) – India
+   6. QZSS (Quasi-Zenith Satellite System) – Japan
 
    Each system consists of a constellation of satellites, ground control stations, and user receivers.
 
-  2. How GNSS Works
+  3. How GNSS Works
       GNSS receivers calculate position by using signals from multiple satellites through a process called trilateration:
    
       Satellites continuously broadcast signals containing their precise location and time.
@@ -26,7 +26,7 @@
       By measuring the time delay of each signal, the receiver calculates its distance from each satellite.
       Using this data, the receiver determines its exact position (latitude, longitude, altitude).
 
-  3. GNSS Applications
+  4. GNSS Applications
      GNSS is used in multiple fields, including:
 
      Navigation: Aircraft, ships, cars, and personal devices.
