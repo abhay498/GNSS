@@ -4,7 +4,8 @@
    signals from multiple satellites.
 
    ![alt text](https://github.com/abhay498/GNSS/blob/main/Reyax_RYS8830_EVB_GUI.png)
-   
+
+   REYAX RYS8830 V1.2
    ![alt text](https://github.com/abhay498/GNSS/blob/main/Reyax_RYS8830_EVB.jpg)
    
 1. Major GNSS Systems
