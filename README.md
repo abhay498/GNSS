@@ -6,6 +6,7 @@
    ![alt text](https://github.com/abhay498/GNSS/blob/main/Reyax_RYS8830_EVB.png)
 
 1. Major GNSS Systems
+   
    **Global Systems:**
    1. GPS (Global Positioning System) – United States
    2. GLONASS (Global Navigation Satellite System) – Russia
