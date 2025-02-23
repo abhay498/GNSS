@@ -1,5 +1,3 @@
-# GNSS
-
 # GNSS (Global Navigation Satellite System) refers to a group of satellite systems that provide positioning, navigation, and timing (PNT) services worldwide.
 These systems allow users to determine their exact location anywhere on Earth using signals from multiple satellites.
 
